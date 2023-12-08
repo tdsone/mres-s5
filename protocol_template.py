@@ -1,5 +1,8 @@
 import random
 from opentrons import protocol_api
+import json
+
+# GENERATED CODE INSERT HERE #
 
 # user define
 num_carbonsources = 2
